@@ -1,0 +1,14 @@
+E:\consolegit\bin\Debug\netcoreapp3.1\consolegit.exe
+E:\consolegit\bin\Debug\netcoreapp3.1\consolegit.deps.json
+E:\consolegit\bin\Debug\netcoreapp3.1\consolegit.runtimeconfig.json
+E:\consolegit\bin\Debug\netcoreapp3.1\consolegit.runtimeconfig.dev.json
+E:\consolegit\bin\Debug\netcoreapp3.1\consolegit.dll
+E:\consolegit\bin\Debug\netcoreapp3.1\consolegit.pdb
+E:\consolegit\obj\Debug\netcoreapp3.1\consolegit.csproj.AssemblyReference.cache
+E:\consolegit\obj\Debug\netcoreapp3.1\consolegit.GeneratedMSBuildEditorConfig.editorconfig
+E:\consolegit\obj\Debug\netcoreapp3.1\consolegit.AssemblyInfoInputs.cache
+E:\consolegit\obj\Debug\netcoreapp3.1\consolegit.AssemblyInfo.cs
+E:\consolegit\obj\Debug\netcoreapp3.1\consolegit.csproj.CoreCompileInputs.cache
+E:\consolegit\obj\Debug\netcoreapp3.1\consolegit.dll
+E:\consolegit\obj\Debug\netcoreapp3.1\consolegit.pdb
+E:\consolegit\obj\Debug\netcoreapp3.1\consolegit.genruntimeconfig.cache
